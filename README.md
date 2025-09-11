@@ -1,15 +1,15 @@
 # Hi, I'm Vivek ✨
 
 📍 Computer Science Undergraduate at **National Institute of Technology Delhi**  
-💻 Full Stack Web Developer | 🚀 Exploring **GenAI Products & Software**  
-🧠 Currently diving into **AI/ML concepts** to solve real-world problems with AI  
+💻 Full Stack Web Developer | 🚀 Integerating Gen AI to provide impactfull solutions.
+
 
 ---
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek--jaiswal)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekjaiswalcode@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
+
 
 ---
 
